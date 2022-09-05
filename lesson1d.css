@@ -1,0 +1,44 @@
+img {
+    width: 200px;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+h1 {
+    text-align: center;
+    width: 40%;
+    height: 10%;
+    color: rgb(85, 85, 227);
+}
+
+.a {
+    margin-right: 0.5em;
+}
+  
+
+.ADDRESS {
+    margin-bottom: 0.5em ;
+}
+
+.TEL {
+    margin-bottom: 0.5em ;
+}
+
+.EMAIL {
+    margin-bottom: 0.5em ; 
+}
+.K {
+    margin-bottom: 0.5em ;   
+}
+.T {
+    margin-bottom: 0.5em ;   
+}
+.G {
+    margin-bottom: 0.5em ;   
+}
+.R {
+    margin-bottom: 0.5em ;   
+}
+
+.school {
+    margin-bottom: 0.5em ;   
+}

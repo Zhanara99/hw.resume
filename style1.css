@@ -1,0 +1,13 @@
+table {
+    margin-top: 50px;
+}
+
+
+.block  { 
+    background: hsl(0, 39%, 72%);
+    color: red;
+}
+
+.block2 {
+    background: rgb(160, 207, 112);
+}
